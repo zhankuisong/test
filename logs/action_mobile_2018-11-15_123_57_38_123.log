@@ -1,0 +1,6 @@
+2018-11-15<|>127.0.0.1<|>/getCalculateResult<|>param={"applyType":3,"category":2,"startTime":1542211200,"endTime":1546272000,"interestRate":0.1,"isAmountInvolved":0,"isWithdrawal":2,"pid":5,"code":99999,"typeId":2,"quantities":10000,"baseInfo":{"channel":"ceshi","device":"android","imageHeight":0,"imageWidth":0,"imei":"864499041310953","model":"PACM00","product":"AYH-A-PH","uid":390,"version":"2.5.4"}}
+<|>end
+2018-11-15<|>127.0.0.1<|>/getCalculateResult<|>param={"applyType":3,"category":2,"startTime":1542211200,"endTime":1546272000,"interestRate":0.1,"isAmountInvolved":0,"isWithdrawal":2,"pid":5,"code":89999,"typeId":2,"quantities":10000,"baseInfo":{"channel":"ceshi","device":"android","imageHeight":0,"imageWidth":0,"imei":"864499041310953","model":"PACM00","product":"AYH-A-PH","uid":390,"version":"2.5.4"}}
+<|>end
+2018-11-15<|>127.0.0.1<|>/getCalculateResult<|>param={"applyType":3,"category":2,"startTime":1542211200,"endTime":1546272000,"interestRate":0.1,"isAmountInvolved":0,"isWithdrawal":2,"pid":5,"code":89999,"typeId":2,"quantities":10000,"baseInfo":{"channel":"ceshi","device":"android","imageHeight":0,"imageWidth":0,"imei":"864499041310953","model":"PACM00","product":"AYH-A-PH","uid":390,"version":"2.5.4"}}
+<|>end
